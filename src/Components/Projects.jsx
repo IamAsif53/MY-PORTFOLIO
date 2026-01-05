@@ -7,8 +7,8 @@ export default function Projects() {
       description:
         "A modern, responsive portfolio built with React and Tailwind CSS, focused on performance and clean UI.",
       tech: ["React", "Tailwind", "Vite"],
-      github: "https://github.com/yourusername/portfolio",
-      live: "https://your-portfolio.vercel.app",
+      github: "https://github.com/IamAsif53/MY-PORTFOLIO",
+      live: "https://my-portfolio-beta-five-27.vercel.app/",
     },
     {
       title: "Library Management System",
