@@ -33,7 +33,7 @@ export default function Hero() {
       >
         {/* ================= LEFT : TEXT ================= */}
         <div className="text-center md:text-left">
-         <p>hello</p>
+         <p>hello kajfiasdjfoia asodfjoadsfji</p>
           
 
           {/* Heading */}
