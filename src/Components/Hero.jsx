@@ -34,9 +34,7 @@ export default function Hero() {
         {/* ================= LEFT : TEXT ================= */}
         <div className="text-center md:text-left">
           {/* Badge */}
-          <span className="inline-block mb-6 rounded-full border border-white/10 bg-white/10 px-4 py-1 text-sm text-gray-200 backdrop-blur">
-            🚀 Available for freelance & full-time
-          </span>
+          
 
           {/* Heading */}
           <h1 className="text-5xl md:text-7xl font-extrabold tracking-tight leading-tight text-white">
