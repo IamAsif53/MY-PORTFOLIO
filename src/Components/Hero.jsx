@@ -59,7 +59,7 @@ export default function Hero() {
           <p className="mt-6 text-base md:text-lg text-gray-400 leading-relaxed max-w-xl">
             I specialize in React, Node,Tailwind CSS, and modern JavaScript —
             focusing on clean architecture, performance, and delightful user
-            experiences. aksldjflkasdjf;akldsjfkaldsjfk
+            experiences.
           </p>
         </div>
 
